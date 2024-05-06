@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first git project in Learn Backend Development Course
+BookBot is my first git project in Learn Back-End Development Course
